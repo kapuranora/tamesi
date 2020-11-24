@@ -2,3 +2,4 @@ for i in range(10):
     for b in range(20,31):
         print(b)
 	    print(i)
+		print(i+b)
